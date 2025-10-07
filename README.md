@@ -131,13 +131,13 @@ The model learns and processes essential network traffic features such as:
 
 Displays a form to input network parameters for detection.
 
-![Interface Example]([images/example1.png](https://github.com/black-lotus-01/IDS-APT-Threat-Real-Time/blob/main/images/image1.png))
+![Interface Example](https://github.com/black-lotus-01/IDS-APT-Threat-Real-Time/raw/main/images/image1.png)
 
 ### 📊 Prediction Results Page
 
 Shows classification output (Normal / Attack type).
 
-![Results Example]([images/example2.png](https://github.com/black-lotus-01/IDS-APT-Threat-Real-Time/blob/main/images/image2.png))
+![Interface Example](https://github.com/black-lotus-01/IDS-APT-Threat-Real-Time/raw/main/images/image2.png)
 ---
 
 ## 🔮 Future Improvements
